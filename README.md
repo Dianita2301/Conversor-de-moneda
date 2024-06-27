@@ -28,3 +28,6 @@ Clase responsable de interactuar con ExchangeRateAPI para obtener las tasas de c
 **Dianita*
 
 ### ⚠️ Cambiar la Clave API: Por favor, recuerda cambiar la clave API por una válida antes de ejecutar este proyecto. La clave API actual es un marcador y no funcionará correctamente. Sigue los pasos adecuados para obtener una clave API válida y asegúrate de configurarla correctamente en el proyecto.
+
+![Captura de pantalla 2024-06-26 164749](https://github.com/Dianita2301/Conversor-de-moneda/assets/160544543/59c639ce-cdfd-4145-acf0-892d477cd4e3)
+
